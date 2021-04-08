@@ -1,5 +1,5 @@
 # Exemplo de sistema especialista
-Implementação de exemplo utilizando [grule-engine]()
+Implementação de exemplo utilizando [grule-engine](https://github.com/hyperjumptech/grule-rule-engine)
 
 Para executar o projeto precisará de um compilador golang, executando no projeto:
 ```shell
